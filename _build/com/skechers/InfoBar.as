@@ -84,11 +84,11 @@
 			infoBar_Container.x = 1900;
 			infoBar_Container.y = 20;
 			
-			
+			/*
 			weatherTimer = new Timer( 1800000, 0 );
 			weatherTimer.addEventListener( TimerEvent.TIMER, getWeather );
 			weatherTimer.start();
-
+			*/
 			
 			dateTimer = new Timer( 1000, 0 );
 			dateTimer.addEventListener( TimerEvent.TIMER, constructTime );
@@ -97,7 +97,7 @@
 			
 			
 			constructDate( null );
-			getWeather( null );
+			// getWeather( null );
 			
 			
 			addComponentsToStage();
