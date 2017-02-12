@@ -766,7 +766,7 @@
 								room:_mapFloor2.selected_CALI,
 								txt:_mapFloor2.txt_CALI, 
 								route:_mapFloor2.route_CALI });
-								
+			/*					
 			navRoomArray.push({ id:4,
 							    btn:art.nav_btn_MARK_NASON,
 								roomType:FILTER_ROOM_TYPE_ARRAY[0].p,
@@ -774,7 +774,7 @@
 								room:_mapFloor2.selected_MARK_NASON,
 								txt:_mapFloor2.txt_MARK_NASON, 
 								route:_mapFloor2.route_MARK_NASON });
-								
+			*/
 			navRoomArray.push({ id:5,
 							    btn:art.nav_btn_CYBER_CAFE,
 								roomType:FILTER_ROOM_TYPE_ARRAY[0].p,
@@ -822,7 +822,7 @@
 								room:_mapFloor3.selected_LIFESTYLE_DESIGN_GROUP,
 								txt:_mapFloor3.txt_LIFESTYLE_DESIGN_GROUP, 
 								route:_mapFloor3.route_LIFESTYLE_DESIGN });
-
+			/*
 			navRoomArray.push({ id:11,
 							  	btn:art.nav_btn_MARK_NASON_LA,
 								roomType:FILTER_ROOM_TYPE_ARRAY[0].s,
@@ -830,7 +830,7 @@
 								room:_mapFloor2.selected_MARK_NASON_LA,
 								txt:_mapFloor2.txt_MARK_NASON_LA, 
 								route:_mapFloor2.route_MARK_NASON_LA });
-								
+			*/					
 			navRoomArray.push({ id:12,
 							  	btn:art.nav_btn_MENS_WOMENS_ONTHEGO,
 								roomType:FILTER_ROOM_TYPE_ARRAY[0].s,
@@ -903,6 +903,7 @@
 								txt:_mapFloor3.txt_KIDS_DESIGN_2, 
 								route:_mapFloor3.route_KIDS_DESIGN_2 });
 			
+			/*
 			navRoomArray.push({ id:21,
 							  	btn:art.nav_btn_PERFORMANCE,
 								roomType:FILTER_ROOM_TYPE_ARRAY[0].s,
@@ -910,6 +911,7 @@
 								room:_mapFloor2.selected_PERFORMANCE,
 								txt:_mapFloor2.txt_PERFORMANCE, 
 								route:_mapFloor2.route_PERFORMANCE });
+			*/
 								
 			navRoomArray.push({ id:22,
 							  	btn:art.nav_btn_RECEPTION_AREA,
@@ -1006,6 +1008,14 @@
 								room:_mapFloor2.selected_WORK,
 								txt:_mapFloor2.txt_WORK, 
 								route:_mapFloor2.route_WORK });
+								
+			navRoomArray.push({ id:34,
+							  	btn:art.nav_btn_MARKETING_THEATER,
+								roomType:FILTER_ROOM_TYPE_ARRAY[0].s,
+								floor:1,
+								room:_mapFloor1.selected_MARKETING_THEATER,
+								txt:_mapFloor1.txt_MARKETING_THEATER, 
+								route:_mapFloor1.route_MARKETING_THEATER });
 								
 		}
 		
