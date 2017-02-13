@@ -223,7 +223,7 @@
 			selectedRoomsArray.push( mc.selected_RECEPTION_CONFERENCE );
 			selectedRoomsArray.push( mc.selected_LARGE_FISHBOWL );
 			selectedRoomsArray.push( mc.selected_SMALL_FISHBOWL );
-			/*selectedRoomsArray.push( mc.selected_MARKETING_THEATER );*/
+			selectedRoomsArray.push( mc.selected_MARKETING_THEATER );
 			selectedRoomsArray.push( mc.selected_SAVAAS_DINING );
 			
 		}
@@ -247,7 +247,7 @@
 			textAnimationArray.push( mc.txt_LARGE_FISHBOWL );
 			textAnimationArray.push( mc.txt_ENTRANCE );
 			textAnimationArray.push( mc.txt_SMALL_FISHBOWL );
-			/*textAnimationArray.push( mc.txt_MARKETING_THEATER );*/
+			textAnimationArray.push( mc.txt_MARKETING_THEATER );
 			textAnimationArray.push( mc.txt_SAVAAS_DINING );
 			textAnimationArray.push( mc.txt_MENS_RESTROOM );
 			textAnimationArray.push( mc.txt_WOMENS_RESTROOM );
