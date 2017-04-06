@@ -629,7 +629,7 @@
 					GlobalVarContainer.vars.netStream = videoBg_NetStream;
 					videoBg_ConnectionReady = true;
 
-					videoBg_NetStream.play( "app-assets/video/BG_vid_long.f4v" );
+					videoBg_NetStream.play( "app-assets/video/BG_vid_long.mp4" );
 				}
 
 			}

@@ -769,7 +769,7 @@
 								
 			navRoomArray.push({ id:4,
 							    btn:art.nav_btn_MARK_NASON,
-								roomType:FILTER_ROOM_TYPE_ARRAY[0].p,
+								roomType:FILTER_ROOM_TYPE_ARRAY[0].s,
 								floor:2,
 								room:_mapFloor2.selected_MARK_NASON,
 								txt:_mapFloor2.txt_MARK_NASON, 
