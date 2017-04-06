@@ -1015,6 +1015,14 @@
 								txt:_mapFloor1.txt_MARKETING_THEATER, 
 								route:_mapFloor1.route_MARKETING_THEATER });
 								
+			navRoomArray.push({ id:35,
+							  	btn:art.nav_btn_YOU,
+								roomType:FILTER_ROOM_TYPE_ARRAY[0].s,
+								floor:2,
+								room:_mapFloor2.selected_YOU,
+								txt:_mapFloor2.txt_YOU, 
+								route:_mapFloor2.route_YOU });
+								
 		}
 		
 

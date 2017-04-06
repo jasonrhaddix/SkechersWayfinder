@@ -234,6 +234,7 @@
 			selectedRoomsArray.push( mc.selected_TWINKLE_TOES );
 			selectedRoomsArray.push( mc.selected_BOBS );
 			selectedRoomsArray.push( mc.selected_PERFORMANCE );
+			selectedRoomsArray.push( mc.selected_YOU );
 			selectedRoomsArray.push( mc.selected_MARK_NASON );
 			selectedRoomsArray.push( mc.selected_MARK_NASON_LA );
 			selectedRoomsArray.push( mc.selected_RESTROOMS );
@@ -277,6 +278,7 @@
 			textAnimationArray.push( mc.txt_BOBS );
 			textAnimationArray.push( mc.txt_MARK_NASON );
 			textAnimationArray.push( mc.txt_PERFORMANCE );
+			textAnimationArray.push( mc.txt_YOU );
 			textAnimationArray.push( mc.txt_MARK_NASON_LA );
 			textAnimationArray.push( mc.txt_RESTROOMS );
 			textAnimationArray.push( mc.txt_GIRLS );
